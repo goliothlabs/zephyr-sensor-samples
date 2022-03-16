@@ -10,7 +10,7 @@ Execute this command to download this repository together with all dependencies:
 
 .. code-block:: console
 
-   west init -m https://github.com/golioth/zephyr-sdk.git
+   west init -m https://github.com/goliothlabs/zephyr-sensor-samples.git
    west update
 
 Sample applications
