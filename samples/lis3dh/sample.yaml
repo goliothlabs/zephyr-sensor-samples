@@ -1,0 +1,10 @@
+sample:
+  description: Send LIS3DH sensor data to Golioth Light DB stream
+  name: lightdb stream
+common:
+  harness: net
+  platform_allow: >
+    esp32
+    esp32c3_devkitm
+  tags: golioth net socket
+
